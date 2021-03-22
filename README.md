@@ -4,6 +4,13 @@ Deep Learning and Application Practice Course Code
 This repository contains all the code for my master deep learning course
 
 #
+Project_1
+| Project_1 | Link| 
+| ------ | ------ |  
+| EXP1 | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_1/exp1.py) |
+| EXP2 | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_1/exp2.py) | 
+
+#
 Project_2
 | Project_2 | Link| 
 | ------ | ------ |  
