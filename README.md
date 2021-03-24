@@ -1,7 +1,7 @@
 # Deep-Learning-and-Application-Practice-Course
 Deep Learning and Application Practice Course Code
 
-This repository contains all the code for my master deep learning course
+This repository contains all the code for my deep learning course
 
 #
 Project_1
