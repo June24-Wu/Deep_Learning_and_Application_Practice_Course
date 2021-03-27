@@ -16,3 +16,10 @@ Project_2
 | ------ | ------ |  
 | News Classification | [Py File](https://github.com/June24-Wu/Deep-Learning-and-Application-Practice-Course/blob/main/Project_2/news%20classification.py) |
 | Red Wine Quality | [Py File](https://github.com/June24-Wu/Deep-Learning-and-Application-Practice-Course/blob/main/Project_2/red%20wine.py) | 
+
+#
+Project_3
+| Project_3 | Link| 
+| ------ | ------ |  
+| Dense Mnist Classification | [Py File](https://github.com/June24-Wu/Deep-Learning-and-Application-Practice-Course/blob/main/Project_2/news%20classification.py) |
+| CNN Mnist Classification | [Py File](https://github.com/June24-Wu/Deep-Learning-and-Application-Practice-Course/blob/main/Project_2/red%20wine.py) | 
