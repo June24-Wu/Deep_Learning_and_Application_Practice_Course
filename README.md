@@ -24,3 +24,17 @@ Project_3
 | Dense Mnist Classification | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_3/1/180730223_Dense.py) |
 | CNN Mnist Classification | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_3/1/18070223_CNN.py) | 
 | CNN Cifar10 Classification | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_3/3/180730223_CNN_5.py) | 
+
+#
+Project_4
+| Project_4 | Link| 
+| ------ | ------ |  
+| Pre_training VGG16 | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_4/2.py) |
+| Fine-Tuning VGG16 | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_4/3.py) | 
+
+#
+Project_5
+| Project_5 | Link| 
+| ------ | ------ |  
+| Embedding | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_5/1.py) |
+| LSTM | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_5/2.py) | 
