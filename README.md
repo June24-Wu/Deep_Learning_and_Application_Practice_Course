@@ -38,3 +38,17 @@ Project_5
 | ------ | ------ |  
 | Embedding | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_5/1.py) |
 | LSTM | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_5/2.py) | 
+
+#
+Project_6
+| Project_6 | Link| 
+| ------ | ------ |  
+| LSTM GRU | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_6/Project6.py) |
+
+#
+Project_7
+| Project_7 | Link| 
+| ------ | ------ |  
+| TEXT | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_7/1.py) |
+| Call_Backs | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_7/2.py) | 
+| Tensorboard | [Py File](https://github.com/June24-Wu/Deep_Learning_and_Application_Practice_Course/blob/main/Project_7/3.py) | 
